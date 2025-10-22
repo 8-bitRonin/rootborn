@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 03a1f10f6c25d3b46aceee1817be4227
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2473194875917070665
+    second: the_scuttler_attack_0
+  - first:
+      213: -3582837746882554282
+    second: the_scuttler_attack_1
+  - first:
+      213: 5053585203784390305
+    second: the_scuttler_attack_2
+  - first:
+      213: -8186091945048187221
+    second: the_scuttler_attack_3
+  - first:
+      213: -305641061513691790
+    second: the_scuttler_attack_4
+  - first:
+      213: 4178183715873968190
+    second: the_scuttler_attack_5
+  - first:
+      213: -9167274346431062893
+    second: the_scuttler_attack_6
+  - first:
+      213: -519170655571940543
+    second: the_scuttler_attack_7
+  - first:
+      213: 6638053646261017959
+    second: the_scuttler_attack_8
+  - first:
+      213: -9149215624813915853
+    second: the_scuttler_attack_9
+  - first:
+      213: 8171530816081354616
+    second: the_scuttler_attack_10
+  - first:
+      213: -3956740485776550403
+    second: the_scuttler_attack_11
+  - first:
+      213: 5737098829576096154
+    second: the_scuttler_attack_12
+  - first:
+      213: -1054312663510038705
+    second: the_scuttler_attack_13
+  - first:
+      213: 1528685805938677232
+    second: the_scuttler_attack_14
+  - first:
+      213: -2090132068948144624
+    second: the_scuttler_attack_15
+  - first:
+      213: -3245358245281530897
+    second: the_scuttler_attack_16
+  - first:
+      213: 1412001348248854886
+    second: the_scuttler_attack_17
+  - first:
+      213: 2171673610808570986
+    second: the_scuttler_attack_18
+  - first:
+      213: -946508677922158383
+    second: the_scuttler_attack_19
+  - first:
+      213: -2224997883095134860
+    second: the_scuttler_attack_20
+  - first:
+      213: -638371209688656709
+    second: the_scuttler_attack_21
+  - first:
+      213: 81553257452374569
+    second: the_scuttler_attack_22
+  - first:
+      213: 1801839618896206358
+    second: the_scuttler_attack_23
+  - first:
+      213: 3707494352998936725
+    second: the_scuttler_attack_24
+  - first:
+      213: 5919319888604624916
+    second: the_scuttler_attack_25
+  - first:
+      213: 8321246032245515033
+    second: the_scuttler_attack_26
+  - first:
+      213: 884686023970278726
+    second: the_scuttler_attack_27
+  - first:
+      213: -8127583766294523617
+    second: the_scuttler_attack_28
+  - first:
+      213: -2310455250127684249
+    second: the_scuttler_attack_29
+  - first:
+      213: -7568099991152077656
+    second: the_scuttler_attack_30
+  - first:
+      213: -7645433381117944719
+    second: the_scuttler_attack_31
+  - first:
+      213: -6220287418138132862
+    second: the_scuttler_attack_32
+  - first:
+      213: 650750558864204093
+    second: the_scuttler_attack_33
+  - first:
+      213: 3551051367889430362
+    second: the_scuttler_attack_34
+  - first:
+      213: -232348744023471865
+    second: the_scuttler_attack_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: the_scuttler_attack_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1936
+        width: 274
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9417a57d2ad825220800000000000000
+      internalID: 2473194875917070665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1935
+        width: 276
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65654394d04374ec0800000000000000
+      internalID: -3582837746882554282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1935
+        width: 279
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a61db1c7f0f12640800000000000000
+      internalID: 5053585203784390305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_3
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1935
+        width: 281
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae57bc6fb8256e80800000000000000
+      internalID: -8186091945048187221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_4
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1935
+        width: 282
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27df3bbe21522cbf0800000000000000
+      internalID: -305641061513691790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_5
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1935
+        width: 284
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e305dfed3f3ebf930800000000000000
+      internalID: 4178183715873968190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1561
+        width: 287
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cdc6e5d8c47c080800000000000000
+      internalID: -9167274346431062893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1561
+        width: 294
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14be3d81a098bc8f0800000000000000
+      internalID: -519170655571940543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_8
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1561
+        width: 305
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ddf511f9a1f1c50800000000000000
+      internalID: 6638053646261017959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1561
+        width: 312
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33153852dd4770180800000000000000
+      internalID: -9149215624813915853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_10
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1561
+        width: 318
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fdfab8bfb176170800000000000000
+      internalID: 8171530816081354616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_11
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 1561
+        width: 321
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5d1eced75d619c0800000000000000
+      internalID: -3956740485776550403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1187
+        width: 308
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9941323df44e9f40800000000000000
+      internalID: 5737098829576096154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1190
+        width: 286
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47c941f7345e51f0800000000000000
+      internalID: -1054312663510038705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_14
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1190
+        width: 286
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5182424abf63510800000000000000
+      internalID: 1528685805938677232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_15
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1190
+        width: 294
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e81b015fb5ef2e0800000000000000
+      internalID: -2090132068948144624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_16
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1190
+        width: 298
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febfb1ddedb26f2d0800000000000000
+      internalID: -3245358245281530897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_17
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1190
+        width: 328
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661eeb0cebf689310800000000000000
+      internalID: 1412001348248854886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 816
+        width: 344
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64b55c94a5532e10800000000000000
+      internalID: 2171673610808570986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 816
+        width: 353
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d800ab4f535dd2f0800000000000000
+      internalID: -946508677922158383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_20
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 816
+        width: 354
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d4e10c6383f11e0800000000000000
+      internalID: -2224997883095134860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_21
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 816
+        width: 353
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4dbab54cc0427f0800000000000000
+      internalID: -638371209688656709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_22
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 816
+        width: 352
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a89bc614cb12100800000000000000
+      internalID: 81553257452374569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_23
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 816
+        width: 351
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a988a369b610910800000000000000
+      internalID: 1801839618896206358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 442
+        width: 346
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590b44d887aa37330800000000000000
+      internalID: 3707494352998936725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_25
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 442
+        width: 340
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418fe28a316a52250800000000000000
+      internalID: 5919319888604624916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_26
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 439
+        width: 338
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9136f90bd210b7370800000000000000
+      internalID: 8321246032245515033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_27
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 439
+        width: 327
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d40846049074c00800000000000000
+      internalID: 884686023970278726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_28
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 439
+        width: 322
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1198c750a5053f80800000000000000
+      internalID: -8127583766294523617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_29
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 439
+        width: 317
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76df3baf03d9fefd0800000000000000
+      internalID: -2310455250127684249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 65
+        width: 316
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a45eb2d725b8f690800000000000000
+      internalID: -7568099991152077656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_31
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 65
+        width: 314
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c1d8cd8d6f5e590800000000000000
+      internalID: -7645433381117944719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_32
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 65
+        width: 310
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e7b09bc891da9a0800000000000000
+      internalID: -6220287418138132862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_33
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 65
+        width: 307
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31ec7a7f2ee70900800000000000000
+      internalID: 650750558864204093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_34
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 65
+        width: 300
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57e632a76ed74130800000000000000
+      internalID: 3551051367889430362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_scuttler_attack_35
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 65
+        width: 291
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70909706c0886ccf0800000000000000
+      internalID: -232348744023471865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      the_scuttler_attack_0: 2473194875917070665
+      the_scuttler_attack_1: -3582837746882554282
+      the_scuttler_attack_10: 8171530816081354616
+      the_scuttler_attack_11: -3956740485776550403
+      the_scuttler_attack_12: 5737098829576096154
+      the_scuttler_attack_13: -1054312663510038705
+      the_scuttler_attack_14: 1528685805938677232
+      the_scuttler_attack_15: -2090132068948144624
+      the_scuttler_attack_16: -3245358245281530897
+      the_scuttler_attack_17: 1412001348248854886
+      the_scuttler_attack_18: 2171673610808570986
+      the_scuttler_attack_19: -946508677922158383
+      the_scuttler_attack_2: 5053585203784390305
+      the_scuttler_attack_20: -2224997883095134860
+      the_scuttler_attack_21: -638371209688656709
+      the_scuttler_attack_22: 81553257452374569
+      the_scuttler_attack_23: 1801839618896206358
+      the_scuttler_attack_24: 3707494352998936725
+      the_scuttler_attack_25: 5919319888604624916
+      the_scuttler_attack_26: 8321246032245515033
+      the_scuttler_attack_27: 884686023970278726
+      the_scuttler_attack_28: -8127583766294523617
+      the_scuttler_attack_29: -2310455250127684249
+      the_scuttler_attack_3: -8186091945048187221
+      the_scuttler_attack_30: -7568099991152077656
+      the_scuttler_attack_31: -7645433381117944719
+      the_scuttler_attack_32: -6220287418138132862
+      the_scuttler_attack_33: 650750558864204093
+      the_scuttler_attack_34: 3551051367889430362
+      the_scuttler_attack_35: -232348744023471865
+      the_scuttler_attack_4: -305641061513691790
+      the_scuttler_attack_5: 4178183715873968190
+      the_scuttler_attack_6: -9167274346431062893
+      the_scuttler_attack_7: -519170655571940543
+      the_scuttler_attack_8: 6638053646261017959
+      the_scuttler_attack_9: -9149215624813915853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
