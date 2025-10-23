@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: b8398d289e10b4d44977a63d7aabc27f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 209578552318400474
+    second: scuttler_death031_0
+  - first:
+      213: 1323885229629662307
+    second: scuttler_death031_1
+  - first:
+      213: -3243690886416449737
+    second: scuttler_death031_2
+  - first:
+      213: -4062531344845154708
+    second: scuttler_death031_3
+  - first:
+      213: 7076188329969001753
+    second: scuttler_death031_4
+  - first:
+      213: -6261730753096588434
+    second: scuttler_death031_5
+  - first:
+      213: 7554176136047498555
+    second: scuttler_death031_6
+  - first:
+      213: 6874497359917589372
+    second: scuttler_death031_7
+  - first:
+      213: 5096880240791147474
+    second: scuttler_death031_8
+  - first:
+      213: 1018393771822703765
+    second: scuttler_death031_9
+  - first:
+      213: 6795651121454437271
+    second: scuttler_death031_10
+  - first:
+      213: -7138224450897218979
+    second: scuttler_death031_11
+  - first:
+      213: -5510540736584805011
+    second: scuttler_death031_12
+  - first:
+      213: -3649692009586764766
+    second: scuttler_death031_13
+  - first:
+      213: -7572936410840847535
+    second: scuttler_death031_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scuttler_death031_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 167
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad79a7b359298e200800000000000000
+      internalID: 209578552318400474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 156
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36466732a926f5210800000000000000
+      internalID: 1323885229629662307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 168
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fb9f913581cf2d0800000000000000
+      internalID: -3243690886416449737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 164
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c665d9d144dfe97c0800000000000000
+      internalID: -4062531344845154708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 153
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915219b7bcba33260800000000000000
+      internalID: 7076188329969001753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 63
+        width: 320
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63e98e5e0dd919a0800000000000000
+      internalID: -6261730753096588434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 146
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3518d70c23d5d860800000000000000
+      internalID: 7554176136047498555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 115
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73af3b1dee176f50800000000000000
+      internalID: 6874497359917589372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 115
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d350171391cbb640800000000000000
+      internalID: 5096880240791147474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 125
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59466f26dbf022e00800000000000000
+      internalID: 1018393771822703765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793d6c7a0b00f4e50800000000000000
+      internalID: 6795651121454437271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 87
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52734d8eaeefec90800000000000000
+      internalID: -7138224450897218979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d651b8b6560a683b0800000000000000
+      internalID: -5510540736584805011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 83
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224dff44470b95dc0800000000000000
+      internalID: -3649692009586764766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuttler_death031_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 114
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ba53d157687e690800000000000000
+      internalID: -7572936410840847535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scuttler_death031_0: 209578552318400474
+      scuttler_death031_1: 1323885229629662307
+      scuttler_death031_10: 6795651121454437271
+      scuttler_death031_11: -7138224450897218979
+      scuttler_death031_12: -5510540736584805011
+      scuttler_death031_13: -3649692009586764766
+      scuttler_death031_14: -7572936410840847535
+      scuttler_death031_2: -3243690886416449737
+      scuttler_death031_3: -4062531344845154708
+      scuttler_death031_4: 7076188329969001753
+      scuttler_death031_5: -6261730753096588434
+      scuttler_death031_6: 7554176136047498555
+      scuttler_death031_7: 6874497359917589372
+      scuttler_death031_8: 5096880240791147474
+      scuttler_death031_9: 1018393771822703765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
