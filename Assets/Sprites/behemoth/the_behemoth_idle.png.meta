@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 5192d3383ec1e664cb5e6bc9186c1d91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5178852282127059604
+    second: the_behemoth_idle_0
+  - first:
+      213: 7937089711566262927
+    second: the_behemoth_idle_1
+  - first:
+      213: 5085734914273332221
+    second: the_behemoth_idle_2
+  - first:
+      213: 5215179190015692382
+    second: the_behemoth_idle_3
+  - first:
+      213: 4326018789520781663
+    second: the_behemoth_idle_4
+  - first:
+      213: 5789901677598917390
+    second: the_behemoth_idle_5
+  - first:
+      213: 6353426200684450122
+    second: the_behemoth_idle_6
+  - first:
+      213: 8783183149953427014
+    second: the_behemoth_idle_7
+  - first:
+      213: 8864184471267954630
+    second: the_behemoth_idle_8
+  - first:
+      213: 2569419199758280254
+    second: the_behemoth_idle_9
+  - first:
+      213: 4107763437146333399
+    second: the_behemoth_idle_10
+  - first:
+      213: 4093996364591972943
+    second: the_behemoth_idle_11
+  - first:
+      213: 2160952335629226329
+    second: the_behemoth_idle_12
+  - first:
+      213: 565392956803291989
+    second: the_behemoth_idle_13
+  - first:
+      213: 6916377380080827063
+    second: the_behemoth_idle_14
+  - first:
+      213: 2403312779797602169
+    second: the_behemoth_idle_15
+  - first:
+      213: 1333330517189288965
+    second: the_behemoth_idle_16
+  - first:
+      213: 5073625943704537481
+    second: the_behemoth_idle_17
+  - first:
+      213: 386865911667164837
+    second: the_behemoth_idle_18
+  - first:
+      213: -3993816738392686169
+    second: the_behemoth_idle_19
+  - first:
+      213: 7376905701055632704
+    second: the_behemoth_idle_20
+  - first:
+      213: 738909876661992888
+    second: the_behemoth_idle_21
+  - first:
+      213: 7119163510127967937
+    second: the_behemoth_idle_22
+  - first:
+      213: 6631542351898551029
+    second: the_behemoth_idle_23
+  - first:
+      213: -1453691203717187405
+    second: the_behemoth_idle_24
+  - first:
+      213: -3120505152140229666
+    second: the_behemoth_idle_25
+  - first:
+      213: 4955457011424963686
+    second: the_behemoth_idle_26
+  - first:
+      213: 5409482131394303370
+    second: the_behemoth_idle_27
+  - first:
+      213: -6395668626824067091
+    second: the_behemoth_idle_28
+  - first:
+      213: 938354160085303947
+    second: the_behemoth_idle_29
+  - first:
+      213: 2101488367428624648
+    second: the_behemoth_idle_30
+  - first:
+      213: -8831834651803771915
+    second: the_behemoth_idle_31
+  - first:
+      213: -5067169292222963200
+    second: the_behemoth_idle_32
+  - first:
+      213: 5771200994491050789
+    second: the_behemoth_idle_33
+  - first:
+      213: 6144121802987042874
+    second: the_behemoth_idle_34
+  - first:
+      213: 5136657739091885969
+    second: the_behemoth_idle_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: the_behemoth_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1384
+        width: 258
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c657893c9450128b0800000000000000
+      internalID: -5178852282127059604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1384
+        width: 260
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8290584a05362e60800000000000000
+      internalID: 7937089711566262927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1384
+        width: 260
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb401b85f8249640800000000000000
+      internalID: 5085734914273332221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1384
+        width: 262
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e05e497d9006840800000000000000
+      internalID: 5215179190015692382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1384
+        width: 260
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f513d093b2b190c30800000000000000
+      internalID: 4326018789520781663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1384
+        width: 257
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03c8b946ecd95050800000000000000
+      internalID: 5789901677598917390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1110
+        width: 257
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41d476b777eb2850800000000000000
+      internalID: 6353426200684450122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1110
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ab222a8224e970800000000000000
+      internalID: 8783183149953427014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1110
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfc579efc8e30b70800000000000000
+      internalID: 8864184471267954630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1110
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3629a8162968a320800000000000000
+      internalID: 2569419199758280254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1110
+        width: 257
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0e17c0515b10930800000000000000
+      internalID: 4107763437146333399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1110
+        width: 256
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42ce3fa00cc0d830800000000000000
+      internalID: 4093996364591972943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 836
+        width: 257
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9511bb533be3dfd10800000000000000
+      internalID: 2160952335629226329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 836
+        width: 257
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b94cc06eda8d700800000000000000
+      internalID: 565392956803291989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 836
+        width: 257
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bab3482598ebff50800000000000000
+      internalID: 6916377380080827063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 836
+        width: 257
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f1efb6d384a5120800000000000000
+      internalID: 2403312779797602169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_16
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 836
+        width: 257
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50461458a01f08210800000000000000
+      internalID: 1333330517189288965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 836
+        width: 256
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98907b12ae3296640800000000000000
+      internalID: 5073625943704537481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 562
+        width: 257
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a601a83f7c6e5500800000000000000
+      internalID: 386865911667164837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 562
+        width: 257
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1481a26dc1398c0800000000000000
+      internalID: -3993816738392686169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_20
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 562
+        width: 257
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04599fc86a8006660800000000000000
+      internalID: 7376905701055632704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 562
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd377f2e92214a00800000000000000
+      internalID: 738909876661992888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 562
+        width: 257
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceb9175e795cc260800000000000000
+      internalID: 7119163510127967937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_23
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 562
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f22fd532a8f70c50800000000000000
+      internalID: 6631542351898551029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 257
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8b35d5d8373dbe0800000000000000
+      internalID: -1453691203717187405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 288
+        width: 257
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c7e6e81db1b4d0800000000000000
+      internalID: -3120505152140229666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_26
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 288
+        width: 257
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c24b195e155c440800000000000000
+      internalID: 4955457011424963686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 288
+        width: 257
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85949c7657521b40800000000000000
+      internalID: 5409482131394303370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 288
+        width: 257
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de78a0505450e37a0800000000000000
+      internalID: -6395668626824067091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_29
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 288
+        width: 256
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8205611324b50d00800000000000000
+      internalID: 938354160085303947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 257
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801e238398cf92d10800000000000000
+      internalID: 2101488367428624648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 14
+        width: 257
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb10406d250f6580800000000000000
+      internalID: -8831834651803771915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_32
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 14
+        width: 257
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0026840306ccda9b0800000000000000
+      internalID: -5067169292222963200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_33
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 14
+        width: 257
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b25043abc671050800000000000000
+      internalID: 5771200994491050789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_34
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 14
+        width: 257
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3876c31a3e444550800000000000000
+      internalID: 6144121802987042874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_behemoth_idle_35
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 14
+        width: 256
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f355f9ff2194740800000000000000
+      internalID: 5136657739091885969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      the_behemoth_idle_0: -5178852282127059604
+      the_behemoth_idle_1: 7937089711566262927
+      the_behemoth_idle_10: 4107763437146333399
+      the_behemoth_idle_11: 4093996364591972943
+      the_behemoth_idle_12: 2160952335629226329
+      the_behemoth_idle_13: 565392956803291989
+      the_behemoth_idle_14: 6916377380080827063
+      the_behemoth_idle_15: 2403312779797602169
+      the_behemoth_idle_16: 1333330517189288965
+      the_behemoth_idle_17: 5073625943704537481
+      the_behemoth_idle_18: 386865911667164837
+      the_behemoth_idle_19: -3993816738392686169
+      the_behemoth_idle_2: 5085734914273332221
+      the_behemoth_idle_20: 7376905701055632704
+      the_behemoth_idle_21: 738909876661992888
+      the_behemoth_idle_22: 7119163510127967937
+      the_behemoth_idle_23: 6631542351898551029
+      the_behemoth_idle_24: -1453691203717187405
+      the_behemoth_idle_25: -3120505152140229666
+      the_behemoth_idle_26: 4955457011424963686
+      the_behemoth_idle_27: 5409482131394303370
+      the_behemoth_idle_28: -6395668626824067091
+      the_behemoth_idle_29: 938354160085303947
+      the_behemoth_idle_3: 5215179190015692382
+      the_behemoth_idle_30: 2101488367428624648
+      the_behemoth_idle_31: -8831834651803771915
+      the_behemoth_idle_32: -5067169292222963200
+      the_behemoth_idle_33: 5771200994491050789
+      the_behemoth_idle_34: 6144121802987042874
+      the_behemoth_idle_35: 5136657739091885969
+      the_behemoth_idle_4: 4326018789520781663
+      the_behemoth_idle_5: 5789901677598917390
+      the_behemoth_idle_6: 6353426200684450122
+      the_behemoth_idle_7: 8783183149953427014
+      the_behemoth_idle_8: 8864184471267954630
+      the_behemoth_idle_9: 2569419199758280254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
