@@ -1,5 +1,5 @@
 using UnityEngine.InputSystem;
-using UnityEngine; 
+using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -39,7 +39,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         //Wall Jump Logic
-        if(wallJumpCooldown > 0.2f)
+        if (wallJumpCooldown > 0.2f)
         {
             rb.linearVelocity = new Vector2(horizontalInput * speed, rb.linearVelocity.y);
 
@@ -64,7 +64,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
 
-    }   
+    }
 
     //Jump Method
     private void Jump()
@@ -73,9 +73,9 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
         }
-        else if(onWall() && !isGrounded()) 
+        else if (onWall() && !isGrounded())
         {
-            if(horizontalInput == 0)
+            if (horizontalInput == 0)
             {
                 rb.linearVelocity = new Vector2(-Mathf.Sign(transform.localScale.x) * 10, 0);
                 transform.localScale = new Vector3(-Mathf.Sign(transform.localScale.x), transform.localScale.y, transform.localScale.z);
@@ -89,11 +89,6 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-
-    }
-
     //Checking if the player is grounded by using Raycast(a "laser" that detects ground)
     private bool isGrounded()
     {
@@ -105,6 +100,11 @@ public class PlayerMovement : MonoBehaviour
     {
         RaycastHit2D rayCastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, new Vector2(transform.localScale.x, 0), 0.1f, wallLayer);
         return rayCastHit.collider != null;
+    }
+
+    public bool canAttack()
+    {
+        return !onWall();
     }
 }
  
