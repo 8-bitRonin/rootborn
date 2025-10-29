@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 7ae80ddae6d6bb04cbc2b3590f90eaa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 921249855171883003
+    second: scuttler_death026_0
+  - first:
+      213: -8403933271580448842
+    second: scuttler_death026_1
+  - first:
+      213: -5701138440008030766
+    second: scuttler_death026_2
+  - first:
+      213: 4659481414028378152
+    second: scuttler_death026_3
+  - first:
+      213: -1409174240029260974
+    second: scuttler_death026_4
+  - first:
+      213: -2024222358879030660
+    second: scuttler_death026_5
+  - first:
+      213: 2421685174968883068
+    second: scuttler_death026_6
+  - first:
+      213: 2877421312231637464
+    second: scuttler_death026_7
+  - first:
+      213: -1266302014325687335
+    second: scuttler_death026_8
+  - first:
+      213: 315560710261758703
+    second: scuttler_death026_9
+  - first:
+      213: -7050565459861000928
+    second: scuttler_death026_10
+  - first:
+      213: 3398785692652138987
+    second: scuttler_death026_11
+  - first:
+      213: -5612887100162035778
+    second: scuttler_death026_12
+  - first:
+      213: -7946020939321144997
+    second: scuttler_death026_13
+  - first:
+      213: 9017608072972271237
+    second: scuttler_death026_14
+  - first:
+      213: 1580281885089870885
+    second: scuttler_death026_15
+  - first:
+      213: -3597475432143089482
+    second: scuttler_death026_16
+  - first:
+      213: 8527237345118325673
+    second: scuttler_death026_17
+  - first:
+      213: -560810272802838873
+    second: scuttler_death026_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scuttler_death026_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 389
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b76c57273b3f5b80800000000000000
+      internalID: -8403933271580448842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f5bcc0c9cc1f27b4bba0abde9bc02662
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scuttler_death026_0: 921249855171883003
+      scuttler_death026_1: -8403933271580448842
+      scuttler_death026_10: -7050565459861000928
+      scuttler_death026_11: 3398785692652138987
+      scuttler_death026_12: -5612887100162035778
+      scuttler_death026_13: -7946020939321144997
+      scuttler_death026_14: 9017608072972271237
+      scuttler_death026_15: 1580281885089870885
+      scuttler_death026_16: -3597475432143089482
+      scuttler_death026_17: 8527237345118325673
+      scuttler_death026_18: -560810272802838873
+      scuttler_death026_2: -5701138440008030766
+      scuttler_death026_3: 4659481414028378152
+      scuttler_death026_4: -1409174240029260974
+      scuttler_death026_5: -2024222358879030660
+      scuttler_death026_6: 2421685174968883068
+      scuttler_death026_7: 2877421312231637464
+      scuttler_death026_8: -1266302014325687335
+      scuttler_death026_9: 315560710261758703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
