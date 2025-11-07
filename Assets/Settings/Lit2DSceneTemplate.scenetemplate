@@ -64,6 +64,7 @@ MonoBehaviour:
     the 2D Renderer in Universal RP.
   preview: {fileID: -3604256930052969394}
   dependencies:
+<<<<<<< Updated upstream
   - dependency: {fileID: 6200000, guid: bd4b3dfa47631ab4b8e0383f1b6a247e, type: 2}
     instantiationMode: 0
   - dependency: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
@@ -73,6 +74,17 @@ MonoBehaviour:
   - dependency: {fileID: 2800000, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
     instantiationMode: 0
   - dependency: {fileID: 2800000, guid: f1632ed4a90ebf749bae99d5ba1b8d16, type: 3}
+=======
+  - dependency: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 4732956372140795824, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 6200000, guid: a3c616f71d3c87f488c4c3e9e1a769a7, type: 2}
+>>>>>>> Stashed changes
     instantiationMode: 0
   templatePipeline: {fileID: 0}
   badge: {fileID: 0}

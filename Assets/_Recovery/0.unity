@@ -130,9 +130,15 @@ GameObject:
   - component: {fileID: 117713018}
   - component: {fileID: 117713019}
   - component: {fileID: 117713020}
+<<<<<<< Updated upstream
   m_Layer: 8
   m_Name: BorderWallRight
   m_TagString: Wall
+=======
+  m_Layer: 0
+  m_Name: BorderWallRight
+  m_TagString: Untagged
+>>>>>>> Stashed changes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -256,6 +262,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
 --- !u!1 &415813661
 GameObject:
   m_ObjectHideFlags: 0
@@ -474,6 +481,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 415813666}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> Stashed changes
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -706,9 +715,15 @@ GameObject:
   - component: {fileID: 943899369}
   - component: {fileID: 943899371}
   - component: {fileID: 943899372}
+<<<<<<< Updated upstream
   m_Layer: 7
   m_Name: BorderBottom
   m_TagString: Ground
+=======
+  m_Layer: 0
+  m_Name: BorderBottom
+  m_TagString: Untagged
+>>>>>>> Stashed changes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -796,7 +811,11 @@ BoxCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
+<<<<<<< Updated upstream
   m_Material: {fileID: 6200000, guid: bd4b3dfa47631ab4b8e0383f1b6a247e, type: 2}
+=======
+  m_Material: {fileID: 0}
+>>>>>>> Stashed changes
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -843,9 +862,15 @@ GameObject:
   - component: {fileID: 1003483483}
   - component: {fileID: 1003483484}
   - component: {fileID: 1003483485}
+<<<<<<< Updated upstream
   m_Layer: 8
   m_Name: BorderLeft
   m_TagString: Wall
+=======
+  m_Layer: 0
+  m_Name: BorderLeft
+  m_TagString: Untagged
+>>>>>>> Stashed changes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -980,9 +1005,15 @@ GameObject:
   - component: {fileID: 1318204456}
   - component: {fileID: 1318204457}
   - component: {fileID: 1318204458}
+<<<<<<< Updated upstream
   m_Layer: 8
   m_Name: BorderWall
   m_TagString: Wall
+=======
+  m_Layer: 0
+  m_Name: BorderWall
+  m_TagString: Untagged
+>>>>>>> Stashed changes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1153,9 +1184,15 @@ GameObject:
   - component: {fileID: 2084813084}
   - component: {fileID: 2084813085}
   - component: {fileID: 2084813086}
+<<<<<<< Updated upstream
   m_Layer: 7
   m_Name: BorderBottomDiagonally
   m_TagString: Ground
+=======
+  m_Layer: 0
+  m_Name: BorderBottomDiagonally
+  m_TagString: Untagged
+>>>>>>> Stashed changes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1279,6 +1316,66 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!1001 &5780030783370616965
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4732956372140795824, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+      propertyPath: m_Name
+      value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229940446591944768, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.13521
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229940446591944768, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.99818
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229940446591944768, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229940446591944768, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229940446591944768, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229940446591944768, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229940446591944768, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229940446591944768, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229940446591944768, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229940446591944768, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b8c6b7609133d3c4d891c278041564f3, type: 3}
+>>>>>>> Stashed changes
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -1286,4 +1383,8 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 619394802}
   - {fileID: 1896961456}
+<<<<<<< Updated upstream
   - {fileID: 415813666}
+=======
+  - {fileID: 5780030783370616965}
+>>>>>>> Stashed changes
