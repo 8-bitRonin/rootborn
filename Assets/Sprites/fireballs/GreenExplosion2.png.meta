@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 8e1c6aed8f60f024ab1c322e1cfaddc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3811381785646079018
+    second: GreenExplosion2_0
+  - first:
+      213: 5749782730634362706
+    second: GreenExplosion2_1
+  - first:
+      213: -6385587875759142259
+    second: GreenExplosion2_2
+  - first:
+      213: -2436175423977144725
+    second: GreenExplosion2_3
+  - first:
+      213: -5147097559867662671
+    second: GreenExplosion2_4
+  - first:
+      213: -1296048672707920959
+    second: GreenExplosion2_5
+  - first:
+      213: 2535289079402413710
+    second: GreenExplosion2_6
+  - first:
+      213: -517023689441321813
+    second: GreenExplosion2_7
+  - first:
+      213: 4973882310734543830
+    second: GreenExplosion2_8
+  - first:
+      213: -6869738443795096797
+    second: GreenExplosion2_9
+  - first:
+      213: 7367594741104883409
+    second: GreenExplosion2_10
+  - first:
+      213: -7608059151817914422
+    second: GreenExplosion2_11
+  - first:
+      213: -2582568518327971553
+    second: GreenExplosion2_12
+  - first:
+      213: 8302976369587491604
+    second: GreenExplosion2_13
+  - first:
+      213: 5989106017026036592
+    second: GreenExplosion2_14
+  - first:
+      213: -2280155901379349888
+    second: GreenExplosion2_15
+  - first:
+      213: 3886907401188865541
+    second: GreenExplosion2_16
+  - first:
+      213: 1249758988599418669
+    second: GreenExplosion2_17
+  - first:
+      213: 1495821012191029463
+    second: GreenExplosion2_18
+  - first:
+      213: -7983098704793410390
+    second: GreenExplosion2_19
+  - first:
+      213: 2368758744935997208
+    second: GreenExplosion2_20
+  - first:
+      213: -6579644186240840750
+    second: GreenExplosion2_21
+  - first:
+      213: -7119734276851075809
+    second: GreenExplosion2_22
+  - first:
+      213: -2570785294889425095
+    second: GreenExplosion2_23
+  - first:
+      213: -7712585262513506163
+    second: GreenExplosion2_24
+  - first:
+      213: 3207165821991217785
+    second: GreenExplosion2_25
+  - first:
+      213: 7876522436661984814
+    second: GreenExplosion2_26
+  - first:
+      213: 5108280312153947660
+    second: GreenExplosion2_27
+  - first:
+      213: -4616584530297795983
+    second: GreenExplosion2_28
+  - first:
+      213: -4385584609179890717
+    second: GreenExplosion2_29
+  - first:
+      213: -323355958253484985
+    second: GreenExplosion2_30
+  - first:
+      213: -947834097895921308
+    second: GreenExplosion2_31
+  - first:
+      213: -7075867847556748003
+    second: GreenExplosion2_32
+  - first:
+      213: -9085601180428604
+    second: GreenExplosion2_33
+  - first:
+      213: -6876972026145112442
+    second: GreenExplosion2_34
+  - first:
+      213: 7155738749328053188
+    second: GreenExplosion2_35
+  - first:
+      213: -3746636833028961860
+    second: GreenExplosion2_36
+  - first:
+      213: -4837365247354371085
+    second: GreenExplosion2_37
+  - first:
+      213: 1151100143950696059
+    second: GreenExplosion2_38
+  - first:
+      213: 623822225439779992
+    second: GreenExplosion2_39
+  - first:
+      213: -4422387976641661477
+    second: GreenExplosion2_40
+  - first:
+      213: -4041251953257360727
+    second: GreenExplosion2_41
+  - first:
+      213: 2311784806112487791
+    second: GreenExplosion2_42
+  - first:
+      213: -4221299647595956902
+    second: GreenExplosion2_43
+  - first:
+      213: 7092629345659847100
+    second: GreenExplosion2_44
+  - first:
+      213: 6301786015524989442
+    second: GreenExplosion2_45
+  - first:
+      213: 1600882743396191730
+    second: GreenExplosion2_46
+  - first:
+      213: -7813642971326719861
+    second: GreenExplosion2_47
+  - first:
+      213: -3688541102069955425
+    second: GreenExplosion2_48
+  - first:
+      213: -2923240480374479901
+    second: GreenExplosion2_49
+  - first:
+      213: -8365040231064690634
+    second: GreenExplosion2_50
+  - first:
+      213: -4785234084711175098
+    second: GreenExplosion2_51
+  - first:
+      213: -8093393801077341810
+    second: GreenExplosion2_52
+  - first:
+      213: 5797897018178866387
+    second: GreenExplosion2_53
+  - first:
+      213: 7206970675188039811
+    second: GreenExplosion2_54
+  - first:
+      213: 8488799959398133882
+    second: GreenExplosion2_55
+  - first:
+      213: 9088185765416251657
+    second: GreenExplosion2_56
+  - first:
+      213: -3167313878238625062
+    second: GreenExplosion2_57
+  - first:
+      213: 788932336980598362
+    second: GreenExplosion2_58
+  - first:
+      213: 724023522535401005
+    second: GreenExplosion2_59
+  - first:
+      213: -8285230363661840922
+    second: GreenExplosion2_60
+  - first:
+      213: 3351774070803336239
+    second: GreenExplosion2_61
+  - first:
+      213: -1199937326657148075
+    second: GreenExplosion2_62
+  - first:
+      213: 6290353772766865041
+    second: GreenExplosion2_63
+  - first:
+      213: 5358940305551151266
+    second: GreenExplosion2_64
+  - first:
+      213: -5072589375172787548
+    second: GreenExplosion2_65
+  - first:
+      213: -3201153966353177896
+    second: GreenExplosion2_66
+  - first:
+      213: -4285022554444135107
+    second: GreenExplosion2_67
+  - first:
+      213: 2343916339873810017
+    second: GreenExplosion2_68
+  - first:
+      213: 6161343850654955060
+    second: GreenExplosion2_69
+  - first:
+      213: 5092391825845755710
+    second: GreenExplosion2_70
+  - first:
+      213: 7580638131246456972
+    second: GreenExplosion2_71
+  - first:
+      213: -775923440682278565
+    second: GreenExplosion2_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenExplosion2_0
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 26
+        width: 166
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c14dc5a8fb4e430800000000000000
+      internalID: 3811381785646079018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenExplosion2_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 50
+        width: 113
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e35b43cf72f2320800000000000000
+      internalID: 2535289079402413710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenExplosion2_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 45
+        width: 124
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db7eeddb97c60540800000000000000
+      internalID: 4973882310734543830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenExplosion2_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 38
+        width: 142
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b9fb56849c9a0a0800000000000000
+      internalID: -6869738443795096797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenExplosion2_57
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 6
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad20c631fc07b04d0800000000000000
+      internalID: -3167313878238625062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 01e1ee9567c5e5f4da0c25f28a885824
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreenExplosion2_0: 3811381785646079018
+      GreenExplosion2_1: 5749782730634362706
+      GreenExplosion2_10: 7367594741104883409
+      GreenExplosion2_11: -7608059151817914422
+      GreenExplosion2_12: -2582568518327971553
+      GreenExplosion2_13: 8302976369587491604
+      GreenExplosion2_14: 5989106017026036592
+      GreenExplosion2_15: -2280155901379349888
+      GreenExplosion2_16: 3886907401188865541
+      GreenExplosion2_17: 1249758988599418669
+      GreenExplosion2_18: 1495821012191029463
+      GreenExplosion2_19: -7983098704793410390
+      GreenExplosion2_2: -6385587875759142259
+      GreenExplosion2_20: 2368758744935997208
+      GreenExplosion2_21: -6579644186240840750
+      GreenExplosion2_22: -7119734276851075809
+      GreenExplosion2_23: -2570785294889425095
+      GreenExplosion2_24: -7712585262513506163
+      GreenExplosion2_25: 3207165821991217785
+      GreenExplosion2_26: 7876522436661984814
+      GreenExplosion2_27: 5108280312153947660
+      GreenExplosion2_28: -4616584530297795983
+      GreenExplosion2_29: -4385584609179890717
+      GreenExplosion2_3: -2436175423977144725
+      GreenExplosion2_30: -323355958253484985
+      GreenExplosion2_31: -947834097895921308
+      GreenExplosion2_32: -7075867847556748003
+      GreenExplosion2_33: -9085601180428604
+      GreenExplosion2_34: -6876972026145112442
+      GreenExplosion2_35: 7155738749328053188
+      GreenExplosion2_36: -3746636833028961860
+      GreenExplosion2_37: -4837365247354371085
+      GreenExplosion2_38: 1151100143950696059
+      GreenExplosion2_39: 623822225439779992
+      GreenExplosion2_4: -5147097559867662671
+      GreenExplosion2_40: -4422387976641661477
+      GreenExplosion2_41: -4041251953257360727
+      GreenExplosion2_42: 2311784806112487791
+      GreenExplosion2_43: -4221299647595956902
+      GreenExplosion2_44: 7092629345659847100
+      GreenExplosion2_45: 6301786015524989442
+      GreenExplosion2_46: 1600882743396191730
+      GreenExplosion2_47: -7813642971326719861
+      GreenExplosion2_48: -3688541102069955425
+      GreenExplosion2_49: -2923240480374479901
+      GreenExplosion2_5: -1296048672707920959
+      GreenExplosion2_50: -8365040231064690634
+      GreenExplosion2_51: -4785234084711175098
+      GreenExplosion2_52: -8093393801077341810
+      GreenExplosion2_53: 5797897018178866387
+      GreenExplosion2_54: 7206970675188039811
+      GreenExplosion2_55: 8488799959398133882
+      GreenExplosion2_56: 9088185765416251657
+      GreenExplosion2_57: -3167313878238625062
+      GreenExplosion2_58: 788932336980598362
+      GreenExplosion2_59: 724023522535401005
+      GreenExplosion2_6: 2535289079402413710
+      GreenExplosion2_60: -8285230363661840922
+      GreenExplosion2_61: 3351774070803336239
+      GreenExplosion2_62: -1199937326657148075
+      GreenExplosion2_63: 6290353772766865041
+      GreenExplosion2_64: 5358940305551151266
+      GreenExplosion2_65: -5072589375172787548
+      GreenExplosion2_66: -3201153966353177896
+      GreenExplosion2_67: -4285022554444135107
+      GreenExplosion2_68: 2343916339873810017
+      GreenExplosion2_69: 6161343850654955060
+      GreenExplosion2_7: -517023689441321813
+      GreenExplosion2_70: 5092391825845755710
+      GreenExplosion2_71: 7580638131246456972
+      GreenExplosion2_72: -775923440682278565
+      GreenExplosion2_8: 4973882310734543830
+      GreenExplosion2_9: -6869738443795096797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
