@@ -10,10 +10,13 @@ public class Projectile : MonoBehaviour
 
     private BoxCollider2D boxCollider;
 
+    private Animator anim;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         boxCollider = GetComponent<BoxCollider2D>();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -34,7 +37,7 @@ public class Projectile : MonoBehaviour
     {
         hit = true;
         boxCollider.enabled = false;
-        Deactivate();
+        anim.SetTrigger("explode");
     }
 
     //changing direction of the sprite of the projectile when the player changes direction
@@ -52,10 +55,5 @@ public class Projectile : MonoBehaviour
         }
 
         transform.localScale = new Vector3(localScaleX, transform.localScale.y, transform.localScale.z);
-    }
-
-    private void Deactivate()
-    {
-        gameObject.SetActive(false);
     }
 }
