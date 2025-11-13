@@ -14,12 +14,15 @@ public class PlayerMovement : MonoBehaviour
     private float wallJumpCooldown;
     private float horizontalInput;
 
+    private Animator anim;
+
     //Start is called before the first frame update
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         boxCollider = GetComponent<BoxCollider2D>();
         originalScale = transform.localScale;
+        anim = GetComponent<Animator>();
 
     }
     //Update is called once per frame
@@ -63,7 +66,7 @@ public class PlayerMovement : MonoBehaviour
             wallJumpCooldown += Time.deltaTime;
         }
 
-
+        anim.SetBool("running", horizontalInput != 0);
     }
 
     //Jump Method
