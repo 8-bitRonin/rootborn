@@ -98268,6 +98268,7 @@ GameObject:
   - component: {fileID: 463078201}
   - component: {fileID: 463078203}
   - component: {fileID: 463078204}
+  - component: {fileID: 463078205}
   m_Layer: 3
   m_Name: Player
   m_TagString: Player
@@ -98489,7 +98490,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &463078204
+--- !u!114 &463078205
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
