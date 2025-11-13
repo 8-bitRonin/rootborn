@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c8c2d186224541044bd63012b52b2b09
+guid: 3b303394a038abd4f8bc379e300f5d42
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,10 +103,10 @@ TextureImporter:
       name: characterSprite-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 3
-        width: 64
-        height: 123
+        x: 0
+        y: 0
+        width: 96
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
