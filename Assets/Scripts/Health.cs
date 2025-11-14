@@ -31,14 +31,23 @@ public class Health : MonoBehaviour
 
         anim?.PlayHurt();
 
-        // health bar fill amount
         // if (healthBar != null) healthBar.fillAmount = currentHealth / startingHealth;
 
         if (currentHealth <= 0)
         {
-            EnemyDeath();
+            
+            EnemyXP xp = GetComponent<EnemyXP>();
+            if (xp != null)
+            {
+                xp.Die();       
+            }
+            else
+            {
+                EnemyDeath();   
+            }
         }
     }
+
     public void PlayerTakeDamage(int amount)
     {
         if (currentHealth <= 0) return;
@@ -47,7 +56,6 @@ public class Health : MonoBehaviour
 
         anim?.PlayHurt();
 
-        // health bar fill amount
         // if (healthBar != null) healthBar.fillAmount = currentHealth / startingHealth;
 
         if (currentHealth <= 0)
@@ -56,31 +64,32 @@ public class Health : MonoBehaviour
         }
     }
 
-    void EnemyDeath()
+    public void EnemyDeath()
     {
         anim?.PlayDeath();
 
         if (enemyAI != null) enemyAI.enabled = false;
         if (rb != null)
         {
-            rb.linearVelocity = Vector2.zero; 
+            rb.linearVelocity = Vector2.zero;
             rb.bodyType = RigidbodyType2D.Kinematic;
         }
         if (col != null) col.enabled = false;
 
-        Destroy(gameObject, deathAnimationDuration); 
+        Destroy(gameObject, deathAnimationDuration);
     }
-    void PlayerDeath()
+
+    public void PlayerDeath()
     {
         anim?.PlayDeath();
 
         if (rb != null)
         {
-            rb.linearVelocity = Vector2.zero; 
+            rb.linearVelocity = Vector2.zero;
             rb.bodyType = RigidbodyType2D.Kinematic;
         }
         if (col != null) col.enabled = false;
 
-        Destroy(gameObject, deathAnimationDuration); 
+        Destroy(gameObject, deathAnimationDuration);
     }
 }
