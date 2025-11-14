@@ -9,12 +9,14 @@ public class PlayerAttack : MonoBehaviour
 
     private PlayerMovement playerMovement;
     private float cooldownTimer = Mathf.Infinity;
+    private Animator anim;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         playerMovement = GetComponent<PlayerMovement>();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -32,6 +34,7 @@ public class PlayerAttack : MonoBehaviour
     private void Attack()
     {
         cooldownTimer = 0;
+        anim.SetTrigger("shoot");
         int orbIndex = FindOrbs();
         orbs[orbIndex].transform.position = firePoint.position;
         orbs[orbIndex].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
