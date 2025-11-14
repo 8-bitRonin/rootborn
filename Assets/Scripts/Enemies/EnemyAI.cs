@@ -1,5 +1,4 @@
-using Pathfinding;
-using Unity.VisualScripting;
+﻿using Pathfinding;
 using UnityEngine;
 
 public class EnemyAI : MonoBehaviour
@@ -26,25 +25,56 @@ public class EnemyAI : MonoBehaviour
     bool isGrounded = false;
     Seeker seeker;
     Rigidbody2D rb;
+    Health targetHealth;
 
     public void Start()
     {
         seeker = GetComponent<Seeker>();
         rb = GetComponent<Rigidbody2D>();
 
-        InvokeRepeating("UpdatePath", 0f, pathUpdateSeconds);
+        if (target != null)
+        {
+            targetHealth = target.GetComponent<Health>();
+        }
+
+        InvokeRepeating(nameof(UpdatePath), 0f, pathUpdateSeconds);
     }
 
     private void FixedUpdate()
     {
+        if (target == null || targetHealth == null)
+        {
+            StopMovement();
+            return;
+        }
+        if (targetHealth.currentHealth <= 0)
+        {
+            StopMovement();
+            return;
+        }
         if (TargetInDistance() && followEnabled)
         {
             PathFollow();
+        }
+        else
+        {
+            StopMovement();
+        }
+    }
+
+    private void StopMovement()
+    {
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector2.zero;
         }
     }
 
     private void UpdatePath()
     {
+        if (target == null || targetHealth == null) return;
+        if (targetHealth.currentHealth <= 0) return;
+
         if (followEnabled && TargetInDistance() && seeker.IsDone())
         {
             seeker.StartPath(rb.position, target.position, OnPathComplete);
@@ -53,58 +83,54 @@ public class EnemyAI : MonoBehaviour
 
     private void PathFollow()
     {
-        if (path == null)
-        {
-            return;
-        }
+        if (path == null) return;
 
-        //reached end of path
-        if (currentWaypoint >= path.vectorPath.Count)
-        {
-            return;
-        }
+        // Reached end
+        if (currentWaypoint >= path.vectorPath.Count) return;
 
-        //collision check
+        // Ground check
         isGrounded = Physics2D.Raycast(transform.position, -Vector3.up, GetComponent<Collider2D>().bounds.extents.y + jumpCheckOffset);
+
+        // Movement direction
         Vector2 direction = ((Vector2)path.vectorPath[currentWaypoint] - rb.position).normalized;
         Vector2 force = direction * speed * Time.deltaTime;
 
-        //Jump
+        // Jump logic
         if (jumpEnabled && isGrounded)
         {
-
             if (direction.y > jumpNodeHeightRequirement)
             {
                 rb.AddForce(Vector2.up * speed * jumpModifier);
             }
         }
 
-        //Move
+        // Apply force
         rb.AddForce(force);
 
-        //Next waypoint
+        // Next waypoint
         float distance = Vector2.Distance(rb.position, path.vectorPath[currentWaypoint]);
         if (distance < nextWaypointRequirement)
         {
             currentWaypoint++;
         }
 
-        //Sprite direction
+        // Flip sprite
         if (directionalLookEnabled)
         {
             if (rb.linearVelocity.x > 0.05f)
             {
                 transform.localScale = new Vector3(-1f * Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
             }
-            else if(rb.linearVelocity.x < -0.05f)
+            else if (rb.linearVelocity.x < -0.05f)
             {
                 transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
             }
         }
     }
+
     private bool TargetInDistance()
     {
-        return Vector2.Distance(transform.position, target.transform.position) < activationDistance; 
+        return Vector2.Distance(transform.position, target.position) < activationDistance;
     }
 
     private void OnPathComplete(Path p)
@@ -115,5 +141,4 @@ public class EnemyAI : MonoBehaviour
             currentWaypoint = 0;
         }
     }
-
 }
