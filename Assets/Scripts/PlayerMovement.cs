@@ -15,6 +15,7 @@ public class PlayerMovement : MonoBehaviour
     private float horizontalInput;
 
     private Animator anim;
+    private bool grounded;
 
     //Start is called before the first frame update
     private void Start()
@@ -40,6 +41,8 @@ public class PlayerMovement : MonoBehaviour
         {
             transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
         }
+        
+        grounded = isGrounded();
 
         //Wall Jump Logic
         if (wallJumpCooldown > 0.2f)
@@ -67,6 +70,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         anim.SetBool("running", horizontalInput != 0);
+        anim.SetBool("grounded", grounded);
     }
 
     //Jump Method
@@ -75,6 +79,7 @@ public class PlayerMovement : MonoBehaviour
         if (isGrounded())
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
+            anim.SetTrigger("jump");
         }
         else if (onWall() && !isGrounded())
         {
@@ -97,6 +102,7 @@ public class PlayerMovement : MonoBehaviour
     {
         RaycastHit2D rayCastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, Vector2.down, 0.1f, groundLayer);
         return rayCastHit.collider != null;
+        grounded = false;
     }
 
     private bool onWall()
