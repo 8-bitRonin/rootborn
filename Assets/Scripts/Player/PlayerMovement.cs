@@ -26,13 +26,6 @@ public class PlayerMovement : MonoBehaviour
         anim = GetComponent<Animator>();
 
     }
-    private void OnTriggerEnter2D(Collider2D col)
-    {
-        if (col.TryGetComponent<Health>(out var enemyHealth))
-        {
-            enemyHealth.EnemyTakeDamage(9999);
-        }
-    }
     //Update is called once per frame
     private void Update()
     {

@@ -19,9 +19,9 @@ GameObject:
   - component: {fileID: 7848413222329983743}
   - component: {fileID: 2239466353205956755}
   - component: {fileID: 3738613464741537401}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Enemy_Scuttler
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36,7 +36,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5.48, y: 0.82, z: 0}
-  m_LocalScale: {x: 0.09, y: 0.09, z: 0.09}
+  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 7208337088327236356}
@@ -256,7 +256,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Health
   healthBar: {fileID: 0}
-  startingHealth: 50
+  startingHealth: 20
   deathAnimationDuration: 1.1
 --- !u!114 &2239466353205956755
 MonoBehaviour:
@@ -270,9 +270,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea486ed7ac1dddd4ba7b3b5fa1ef7361, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyXP
-  xpAmount: 25
+  xpAmount: 50
   health: {fileID: 7848413222329983743}
   xpPopupPrefab: {fileID: 4684527601416218772, guid: a38c6bd5106ba1344ae1fb413bc2c31b, type: 3}
+  spawner: {fileID: 0}
 --- !u!50 &3738613464741537401
 Rigidbody2D:
   serializedVersion: 5
@@ -299,7 +300,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!1 &8150262224262649326
 GameObject:
   m_ObjectHideFlags: 0
@@ -311,7 +312,7 @@ GameObject:
   - component: {fileID: 7208337088327236356}
   - component: {fileID: 5959096854290640534}
   - component: {fileID: 2769299828987132247}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: attack_hitbox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -367,7 +368,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.27806163, y: -0.057772398}
+  m_Offset: {x: -0.24005634, y: -0.30646873}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -377,7 +378,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.5561233, y: 1.6070399}
+  m_Size: {x: 2.592359, y: 3.5137215}
   m_EdgeRadius: 0
 --- !u!114 &2769299828987132247
 MonoBehaviour:

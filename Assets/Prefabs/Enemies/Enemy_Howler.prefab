@@ -113,6 +113,7 @@ GameObject:
   - component: {fileID: 69210108017381739}
   - component: {fileID: 5772767088073376540}
   - component: {fileID: 5308127106704022164}
+  - component: {fileID: 8953208910705444079}
   m_Layer: 0
   m_Name: Enemy_Howler
   m_TagString: Untagged
@@ -130,7 +131,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 14.823, y: -5.039, z: 0}
-  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1.6666665}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 3745315876708628709}
@@ -316,7 +317,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Health
   healthBar: {fileID: 0}
-  startingHealth: 200
+  startingHealth: 50
   deathAnimationDuration: 1
 --- !u!114 &69210108017381739
 MonoBehaviour:
@@ -370,3 +371,19 @@ MonoBehaviour:
   tagPenalties: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   graphMask:
     value: -1
+--- !u!114 &8953208910705444079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5716051433467589977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea486ed7ac1dddd4ba7b3b5fa1ef7361, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyXP
+  xpAmount: 100
+  health: {fileID: 1739960965158707757}
+  xpPopupPrefab: {fileID: 4684527601416218772, guid: a38c6bd5106ba1344ae1fb413bc2c31b, type: 3}
+  spawner: {fileID: 0}

@@ -7,6 +7,7 @@ public class EnemyXP : MonoBehaviour
     public GameObject xpPopupPrefab;
 
     private bool isDead = false;
+    public EnemySpawner spawner;   // Spawner referance
 
     private void Awake()
     {
@@ -32,9 +33,16 @@ public class EnemyXP : MonoBehaviour
             PlayerStats.Instance.AddXP(xpAmount);
         }
 
+        if (spawner != null)
+        {
+            spawner.OnEnemyDied();
+        }
+
+        // death anim/destroy
         if (health != null)
             health.EnemyDeath();
         else
             Destroy(gameObject);
     }
+
 }

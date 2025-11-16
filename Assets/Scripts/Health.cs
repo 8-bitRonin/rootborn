@@ -1,4 +1,4 @@
-using Pathfinding;
+﻿using Pathfinding;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -63,7 +63,6 @@ public class Health : MonoBehaviour
             PlayerDeath();
         }
     }
-
     public void EnemyDeath()
     {
         anim?.PlayDeath();
